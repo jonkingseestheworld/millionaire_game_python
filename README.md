@@ -1,2 +1,2 @@
-# millionaire_game_python
+# millionaire_game_building
 Building the 'Who wants to be a millioniare?' game in progress ...
